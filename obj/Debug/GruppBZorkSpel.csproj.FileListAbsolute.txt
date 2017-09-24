@@ -1,0 +1,7 @@
+C:\Users\naluzzi\source\repos\GruppBZorkSpel\obj\Debug\GruppBZorkSpel.csprojResolveAssemblyReference.cache
+C:\Users\naluzzi\source\repos\GruppBZorkSpel\obj\Debug\GruppBZorkSpel.csproj.CoreCompileInputs.cache
+C:\Users\naluzzi\source\repos\GruppBZorkSpel\bin\Debug\GruppBZorkSpel.exe.config
+C:\Users\naluzzi\source\repos\GruppBZorkSpel\bin\Debug\GruppBZorkSpel.exe
+C:\Users\naluzzi\source\repos\GruppBZorkSpel\bin\Debug\GruppBZorkSpel.pdb
+C:\Users\naluzzi\source\repos\GruppBZorkSpel\obj\Debug\GruppBZorkSpel.exe
+C:\Users\naluzzi\source\repos\GruppBZorkSpel\obj\Debug\GruppBZorkSpel.pdb
